@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89856325911",
+    "project_id": "slide7rn2",
+    "storage_bucket": "slide7rn2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89856325911:android:a3e1a5968b1e353c36df52",
+        "android_client_info": {
+          "package_name": "com.slide7_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFx_bckFwLfvNZOq88zR53u9ug99rgjCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
